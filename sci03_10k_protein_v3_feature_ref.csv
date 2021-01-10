@@ -1,0 +1,21 @@
+id,name,read,pattern,sequence,feature_type
+Oligo1,HT29_intactcell_oligo1_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,AAGGCAGACGGTGCA,Antibody Capture
+Oligo2,HT29_intactcell_oligo2_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,GGCTGCGCACCGCCT,Antibody Capture
+Oligo3,HT29_nuclei_oligo3_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,TAGTTGACATGCCAT,Antibody Capture
+Oligo4,HT29_nuclei_oligo4_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,GACGCGCGTTGTCAT,Antibody Capture
+Oligo5,293T_intactcell_oligo5_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,CGTCCTAGGACATAT,Antibody Capture
+Oligo6,293T_intactcell_oligo6_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,CTCCAGCTCGAGCTC,Antibody Capture
+Oligo7,293T_nuclei_oligo7_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,GGACGCAACTTAAGA,Antibody Capture
+Oligo8,293T_nuclei_oligo8_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,AGCGAACCGCCGCTG,Antibody Capture
+Oligo9,MEF_intactcell_oligo9_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,GTGCAAGAGTTGGCG,Antibody Capture
+Oligo10,MEF_intactcell_oligo10_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,GAAGAAGCGTTATTC,Antibody Capture
+Oligo11,MEF_nuclei_oligo11_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,TGGTGACAAGTATCT,Antibody Capture
+Oligo12,MEF_nuclei_oligo12_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,CACTCCTTGACAGGT,Antibody Capture
+Oligo13,5FU_intactcell_oligo13_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,CGAGGTACATCTTGT,Antibody Capture
+Oligo14,5FU_intactcell_oligo14_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,GCCAAGATCAGGTCC,Antibody Capture
+Oligo15,5FU_nuclei_oligo15_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,TTAGGTGTACACGTT,Antibody Capture
+Oligo16,5FU_nuclei_oligo16_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,GCATTGCGTCAGGCT,Antibody Capture
+Oligo17,Radi_intactcell_oligo17_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,CTGGTCGAACTTCGT,Antibody Capture
+Oligo18,Radi_intactcell_oligo18_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,AGAGCTAGGATCGGA,Antibody Capture
+Oligo19,Radi_nuclei_oligo19_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,ATAATCATTACGTGG,Antibody Capture
+Oligo20,Radi_nuclei_oligo20_TotalSeqB,R2,5PNNNNNNNNNN(BC)NNNNNNNNN,ACGAATCGGATACTA,Antibody Capture
